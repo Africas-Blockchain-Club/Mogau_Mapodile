@@ -1,0 +1,11 @@
+# Foundry build files
+**/out/
+**/cache/
+**/broadcast/
+
+# Secrets
+.env
+.env.*
+
+# VS Code
+.vscode/
